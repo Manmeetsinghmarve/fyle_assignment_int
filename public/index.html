@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Github Repositories Viewer</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Github Repositories Viewer</h1>
+    </header>
+    <main>
+        <label for="username">Enter GitHub Username:</label>
+        <input type="text" id="username" placeholder="Enter username">
+        <button onclick="fetchRepositories()">Fetch Repositories</button>
+        <div id="repositories-list"></div>
+        <div id="pagination" class="pagination">
+            <button onclick="prevPage()">Previous</button>
+            <span id="currentPage">1</span>
+            <button onclick="nextPage()">Next</button>
+        </div>
+        <div id="loader" class="loader"></div>
+    </main>
+    <script src="/script.js"></script>
+</body>
+</html>
