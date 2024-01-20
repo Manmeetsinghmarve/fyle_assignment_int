@@ -10,8 +10,6 @@ This project is a simple web application that allows users to enter a GitHub use
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
-- [Issues and Contributions](#issues-and-contributions)
-- [License](#license)
 
 ## Features
 
@@ -56,7 +54,4 @@ github-repo-viewer/
 3. Use pagination buttons to navigate through multiple pages.
 4. Topics, repository names, and descriptions are displayed for each repository.
 
-## Issues and Contributions
-
-If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Your contributions are welcome!
 
