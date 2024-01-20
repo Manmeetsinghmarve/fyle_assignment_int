@@ -60,10 +60,3 @@ github-repo-viewer/
 
 If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Your contributions are welcome!
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README file further based on your preferences or additional details you want to include.
